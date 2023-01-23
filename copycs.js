@@ -9,7 +9,7 @@ function myFunction() {
 </head>
 <body>
 
-<h2>Demo JavaScript in Head</h2>
+<h2>Demo JavaScript</h2>
 
 <p id="demo">A Paragraph.</p>
 
