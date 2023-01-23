@@ -16,11 +16,5 @@ h1{
     color: forestgreen;
 }
 h1, h2{
-    font-weight: 400;
-}
-
-ul li{
-    list-style-type: square;
-    margin-bottom: 10px;
-    margin-left: 50px;
+    font-weight: 4
 }
